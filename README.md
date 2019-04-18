@@ -517,14 +517,18 @@ The “path” you take will determine very little, you can move from framework 
 #### Level 5.2 - Vue.JS and You.JS
 
 [Build A Movie Player with Vue.js](https://scotch.io/tutorials/build-a-movie-player-with-vuejs-solution-to-code-challenge-5)
+ 
  [Animated Image Search](https://scotch.io/bar-talk/build-an-animated-image-search-with-vuejs-solution-to-code-challenge-8) 
+ 
  [Marvel Search Engine](https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc) 
 
 
 ## Level 5: JS-Mage: Getting serious with Canvas
 [Getting Started With The Canvas API - Treehouse Blog](https://blog.teamtreehouse.com/getting-started-with-the-canvas-api)
+
 [Making Sprite-based Games with Canvas](https://jlongster.com/Making-Sprite-based-Games-with-Canvas)
 
 ## Level 5: CSS-Bard: SASS, Animations, and Variables
 [Getting Started with SASS (with Interactive Examples) ― Scotch.io](https://scotch.io/tutorials/getting-started-with-sass)
+
 [Animated Animals in CSS and SVG | Codrops](https://tympanus.net/codrops/2016/03/21/animated-animals-css-svg/)
