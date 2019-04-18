@@ -1,5 +1,7 @@
 # Dragon.request(); 
 
+It's like Dragon Quest, but for coding!
+
 ## Level 0: Getting Started
 Hello adventurer, thank you for choosing this long quest to becoming a front end programmer. We will be coding inside codepen to get started. This has a few caveats:
 
